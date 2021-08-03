@@ -23,7 +23,31 @@ let questions = [
     ]
   },
     {
-    numb: 3,
+     numb: 3,
+       question: "Who is the father of html?",
+       answer: "Tim Berners-Lee",
+       options: [
+        "Hakon Wium",
+        "Mdo & Fat",
+        "Tim Berners-Lee",
+        "Charles"
+
+       ]
+     },
+    {
+   numb: 4,
+   question: "How is everything treated in HTML DOM?",
+   answer: "Node",
+   options: [
+    "Elements",
+    "Node",
+    "Arrays",
+    "Attributes"
+
+       ]
+     },
+    {
+    numb: 5,
     question: "What does PHP stand for?",
     answer: "Hypertext Preprocessor",
     options: [
@@ -34,7 +58,7 @@ let questions = [
     ]
   },
     {
-    numb: 4,
+    numb: 6,
     question: "What does SQL stand for?",
     answer: "Structured Query Language",
     options: [
@@ -45,7 +69,7 @@ let questions = [
     ]
   },
     {
-    numb: 5,
+    numb: 7,
     question: "What does XML stand for?",
     answer: "eXtensible Markup Language",
     options: [
@@ -57,7 +81,7 @@ let questions = [
   },
 
   {
-      numb: 6,
+      numb: 8,
        question: "The correct sequence of HTML tags for starting a webpage is",
        answer: "HTML, Head, Title, Body",
        options: [
@@ -65,6 +89,30 @@ let questions = [
         "HTML, Body, Title, Head",
         "HTML, Head, Title, Body",
         "Title, HTML, Head, Body"
+
+       ]
+     },
+    {
+       numb: 9,
+       question: "Which obj is top of heirarchy?",
+       answer: "Window obj",
+       options: [
+        "Window obj",
+        "Document obj",
+        "Form obj",
+        "Control obj"
+
+       ]
+     },
+    {
+       numb: 10,
+       question: "The method or operator used for identifying array is",
+       answer: "typeof",
+       options: [
+        "isarrayType()",
+        "===",
+        "==",
+        "typeof"
 
        ]
      },
